@@ -19,4 +19,4 @@ My GitHub page is http://github.com/Joshua11l.
 
 * Lab 12
 
-    Lab 12, part 1, was my favorite because it was our last lab, and I was able to create an image from coding. I found this fascinating because you could create a visual image from written code. I have never done this before, so being able to create a picture from code was very interesting to me. I learned that you're able to do all sorts of things with coding.
+    Lab 12, part 1, was my favorite because it was our last lab, and I was able to create an image from coding. I found this fascinating because you could create a visual image from written code. This lab was the first time I had done this or knew you could create visuals like pictures from code. I learned that you could do all sorts of things with coding and not just collect data. 
